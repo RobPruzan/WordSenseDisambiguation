@@ -1,0 +1,5 @@
+fuzzywuzzy
+transformers
+nltk
+numpy
+skelearn
