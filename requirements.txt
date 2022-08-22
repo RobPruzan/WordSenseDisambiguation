@@ -1,5 +1,5 @@
 fuzzywuzzy
 transformers
 nltk
-numpy
+torch
 skelearn
