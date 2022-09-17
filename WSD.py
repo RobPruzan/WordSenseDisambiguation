@@ -36,7 +36,6 @@ big_4 = ['NN', 'NNS', 'NNP', 'NNPS']
 stop_words = set(stopwords.words('english'))
 
 
-
 def get_word_vec(text, idx):
     # tokenizing the text
     tokens = tokenizer.tokenize(text)
